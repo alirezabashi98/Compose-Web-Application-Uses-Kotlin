@@ -1,0 +1,14 @@
+{
+  "name": "kotlinWeb",
+  "version": "1.0",
+  "private": true,
+  "workspaces": [
+    "packages/kotlinWeb"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
